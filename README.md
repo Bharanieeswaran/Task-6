@@ -26,7 +26,6 @@ The goal of this task is to understand and implement the **K-Nearest Neighbors (
 
 - `knn_classification.ipynb` – Main code notebook
 - `README.md` – Project documentation
-- (Optional) `images/` – Accuracy plots and decision boundary visualizations
 
 ---
 
